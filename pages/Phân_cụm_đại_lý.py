@@ -8,7 +8,7 @@ from utils.data_loader import load_inventory_data
 
 # Tiêu đề ứng dụng
 st.set_page_config(page_title="Phân Tích Đại Lý", layout="wide")
-st.title("🏪 Phân Tích & Phân Nhóm Đại Lý")
+st.title("Phân Tích & Phân Nhóm Đại Lý")
 st.markdown("""
 **Phân cụm đại lý dựa trên 5 đặc trưng quan trọng:**  
 1. Độ đa dạng SKU  
